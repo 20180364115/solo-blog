@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [现阶段个人感悟](http://wang.redwang.top/articles/2019/09/02/1567429778758.html)
 * [学习总结](http://wang.redwang.top/articles/2019/08/31/1567261653878.html)
 
 
